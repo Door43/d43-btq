@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[btq:home|Door43 (btq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-btq|d43-btq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-btq/archive/master.zip|d43-btq.zip]]
+
+**Recent Changes**
+{{changes>ns = btq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/btq|Ethnologue data]]
+
